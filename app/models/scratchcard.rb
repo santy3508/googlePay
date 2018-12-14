@@ -1,0 +1,2 @@
+class Scratchcard < ApplicationRecord
+end

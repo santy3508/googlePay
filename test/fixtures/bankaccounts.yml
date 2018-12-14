@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  acc_no: MyString
+  ifsc: MyString
+  balance: MyString
+  bank: MyString
+
+two:
+  acc_no: MyString
+  ifsc: MyString
+  balance: MyString
+  bank: MyString

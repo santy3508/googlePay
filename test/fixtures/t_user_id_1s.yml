@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  references: MyString
+  t_user_id_2: MyString
+  references: MyString
+  amount: MyString
+
+two:
+  references: MyString
+  t_user_id_2: MyString
+  references: MyString
+  amount: MyString
